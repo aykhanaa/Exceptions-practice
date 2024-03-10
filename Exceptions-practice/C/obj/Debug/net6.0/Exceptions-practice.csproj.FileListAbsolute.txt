@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\C#\Exceptions-practice\Exceptions-practice\Exceptions-practice\bin\Debug\net6.0\Exceptions-practice.exe
+C:\Users\Hp\Desktop\C#\Exceptions-practice\Exceptions-practice\Exceptions-practice\bin\Debug\net6.0\Exceptions-practice.deps.json
+C:\Users\Hp\Desktop\C#\Exceptions-practice\Exceptions-practice\Exceptions-practice\bin\Debug\net6.0\Exceptions-practice.runtimeconfig.json
+C:\Users\Hp\Desktop\C#\Exceptions-practice\Exceptions-practice\Exceptions-practice\bin\Debug\net6.0\Exceptions-practice.dll
+C:\Users\Hp\Desktop\C#\Exceptions-practice\Exceptions-practice\Exceptions-practice\bin\Debug\net6.0\Exceptions-practice.pdb
+C:\Users\Hp\Desktop\C#\Exceptions-practice\Exceptions-practice\Exceptions-practice\obj\Debug\net6.0\Exceptions-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#\Exceptions-practice\Exceptions-practice\Exceptions-practice\obj\Debug\net6.0\Exceptions-practice.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#\Exceptions-practice\Exceptions-practice\Exceptions-practice\obj\Debug\net6.0\Exceptions-practice.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#\Exceptions-practice\Exceptions-practice\Exceptions-practice\obj\Debug\net6.0\Exceptions-practice.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#\Exceptions-practice\Exceptions-practice\Exceptions-practice\obj\Debug\net6.0\Exceptions-practice.dll
+C:\Users\Hp\Desktop\C#\Exceptions-practice\Exceptions-practice\Exceptions-practice\obj\Debug\net6.0\refint\Exceptions-practice.dll
+C:\Users\Hp\Desktop\C#\Exceptions-practice\Exceptions-practice\Exceptions-practice\obj\Debug\net6.0\Exceptions-practice.pdb
+C:\Users\Hp\Desktop\C#\Exceptions-practice\Exceptions-practice\Exceptions-practice\obj\Debug\net6.0\Exceptions-practice.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#\Exceptions-practice\Exceptions-practice\Exceptions-practice\obj\Debug\net6.0\ref\Exceptions-practice.dll
